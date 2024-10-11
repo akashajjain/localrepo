@@ -1,4 +1,8 @@
 <h2>Amazon</h2>
+<<<<<<< HEAD
 this is new
 efebfjbhwefjehw
 efbwjefbhjwebffw
+=======
+this is new
+>>>>>>> 9777afc87c1d388603a823c47d743b545836e20a
